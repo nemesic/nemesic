@@ -2,7 +2,7 @@
 <h3 align="center">Junior Frontend Developer | React / TypeScript</h3>
 
 <p align="center">
-  I build clean, responsive, and user-friendly web interfaces.
+  I create clean, responsive, and user-friendly web interfaces.
 </p>
 
 <p align="center">
