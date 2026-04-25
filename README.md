@@ -29,4 +29,4 @@ const developer = {
 <p align="center"> <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,sass,git,github,vite" alt="Tech Stack" /> </p>
 
 ## Contact
-<p align="center"> <a href="https://t.me/nemesicc"> <img src="https://img.shields.io/badge/Telegram-00C2FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /> </a> </p> <p align="center"> 🚀 Always learning. Always building. </p>
+<p align="center"> <a href="https://t.me/nemesicc"> <img src="https://img.shields.io/badge/Telegram-00C2FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /> </a> </p> <p align="center">  Always learning. Always building. </p>
