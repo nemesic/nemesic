@@ -6,7 +6,9 @@
 </p>
 
 <p align="center">
-  🌐 Live: https://kobzan-portfolio.vercel.app/
+  🌐 <a href="https://kobzan-portfolio.vercel.app/" target="_blank">
+    Live Portfolio
+  </a>
 </p>
 
 <p align="center">
